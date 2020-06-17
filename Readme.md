@@ -7,6 +7,7 @@
 ## 2주차 과제 (2020.06.16)
 
  - [파이썬과 인공지능 기초수학](https://github.com/S0Y3on/gj-aischool/blob/master/2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6.ipynb)
+ - [위 파일이 열리지 않는다면 ... ](https://nbviewer.jupyter.org/github/S0Y3on/gj-aischool/blob/master/2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6.ipynb)
  
 ## 3주차 과제 (2020.06.16)
 
